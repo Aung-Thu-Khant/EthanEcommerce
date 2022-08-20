@@ -42,7 +42,9 @@ fun Server.createProduct(
     sellerName: String,
     sellerPhone: String,
     leads: ArrayList<String>
-) {}
+) {
+
+}
 
 fun Server.updateProduct(productId: String, key: String, value: Any) {}
 

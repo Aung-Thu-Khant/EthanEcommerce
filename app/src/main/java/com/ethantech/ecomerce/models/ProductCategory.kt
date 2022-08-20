@@ -11,5 +11,7 @@ data class ProductCategory(
         categoryImage = ""
     )
 
-    fun convert() {}
+    fun convert() {
+
+    }
 }
