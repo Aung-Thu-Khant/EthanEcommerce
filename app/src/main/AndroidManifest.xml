@@ -3,6 +3,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.ethantech.ecomerce">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -14,7 +18,20 @@
         android:theme="@style/Theme.Ecomerce"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".onBoarding.OnBoarding"
+            android:exported="false" />
+        <activity
+            android:name=".Home.Homepage"
+            android:exported="false"
+            android:theme="@style/Theme.Default" />
+        <activity
+            android:name=".LoginRegister.Register"
+            android:exported="false" />
+        <activity
+            android:name=".LoginRegister.Login"
+            android:exported="false" />
+        <activity
+            android:name=".onBoarding.Splash"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
