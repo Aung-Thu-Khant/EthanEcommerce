@@ -25,7 +25,6 @@ class Server {
     fun login(email: String, password: String) {}
 
     fun logout() {}
-
 }
 //-----------------------------
 
