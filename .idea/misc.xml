@@ -3,7 +3,40 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/drawable/cate_home_bg.xml" value="0.186" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/drawable/home_buy_card_bg.xml" value="0.1435" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/drawable/ic_email.xml" value="0.1675" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/drawable/ic_login.xml" value="0.1675" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/drawable/ic_password.xml" value="0.1675" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/drawable/icon_background.xml" value="0.1355" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/drawable/icon_outer_bg.xml" value="0.1355" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/drawable/indicator_active_bg.xml" value="0.1" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/drawable/indicator_inactive_bg.xml" value="0.1" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/drawable/register_bg.xml" value="0.1675" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/drawable/true_icn.xml" value="0.1675" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/drawable/view_pager_bg.xml" value="0.1355" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/font/abel.xml" value="0.28020833333333334" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/font/alegreya_sans_sc_light.xml" value="0.28020833333333334" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/layout/activity_home_page.xml" value="0.16" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/layout/activity_homepage.xml" value="0.176" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Freelance/Ecomerce/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/layout/cate_layout_home.xml" value="0.24895833333333334" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/layout/fragment_about_fg.xml" value="0.24456521739130435" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/layout/fragment_cart_fg.xml" value="0.24456521739130435" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/layout/fragment_history_fg.xml" value="0.24456521739130435" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/layout/fragment_home_fg.xml" value="0.24456521739130435" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/layout/fragment_order_list_fg.xml" value="0.24456521739130435" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/layout/fragment_product_detail.xml" value="0.25" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/layout/fragment_profile_fg.xml" value="0.24456521739130435" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/layout/fragment_sell_fg.xml" value="0.24456521739130435" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/layout/home_banner_layout.xml" value="0.24895833333333334" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/layout/home_navi_header.xml" value="0.24456521739130435" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/layout/home_rv_layout.xml" value="0.24895833333333334" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/layout/onboarding_item_container.xml" value="0.1" />
+        <entry key="..\:/Freelance/Ecomerce/app/src/main/res/menu/home_navi_menu.xml" value="0.24895833333333334" />
       </map>
     </option>
   </component>
