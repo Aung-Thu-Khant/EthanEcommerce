@@ -42,5 +42,6 @@ data class Product(
     fun downloadProductImage() {
 
 
+
     }
 }
