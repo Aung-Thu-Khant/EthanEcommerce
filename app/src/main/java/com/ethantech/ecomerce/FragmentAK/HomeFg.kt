@@ -29,6 +29,7 @@ class HomeFg : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
 
+
         var view =  inflater.inflate(R.layout.fragment_home_fg, container, false)
         homeCategoryAdapter = HomeCategoryAdapter(
             listOf(

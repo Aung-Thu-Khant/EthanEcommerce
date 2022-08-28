@@ -24,6 +24,7 @@ class HomeCategoryAdapter (private val homeCategoryItems: List<CategoryHome>) :
         }
     }
 
+
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): HomeCategoryViewHolder {
         return HomeCategoryViewHolder(
             LayoutInflater.from(parent.context).inflate(

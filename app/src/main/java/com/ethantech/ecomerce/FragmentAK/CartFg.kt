@@ -13,4 +13,5 @@ class CartFg : Fragment() {
         return inflater.inflate(R.layout.fragment_cart_fg, container, false)
     }
 
+
 }

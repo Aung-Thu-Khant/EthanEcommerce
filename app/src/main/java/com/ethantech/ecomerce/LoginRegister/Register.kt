@@ -21,6 +21,7 @@ class Register : AppCompatActivity() {
 
     }
 
+
     override fun finish() {
         super.finish()
         CustomIntent.customType(this,"right-to-left")

@@ -25,6 +25,7 @@ class Homepage : AppCompatActivity() {
         toggle.syncState()
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
+
         nv.setNavigationItemSelectedListener(NavigationView.OnNavigationItemSelectedListener { item ->
             val id = item.itemId
             when (id) {

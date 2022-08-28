@@ -14,4 +14,5 @@ class SellFg : Fragment() {
         return inflater.inflate(R.layout.fragment_sell_fg, container, false)
     }
 
+
 }

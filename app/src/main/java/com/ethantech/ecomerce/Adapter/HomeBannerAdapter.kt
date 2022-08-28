@@ -13,6 +13,7 @@ import com.ethantech.ecomerce.modelAk.CategoryHome
 class HomeBannerAdapter  (private val homeBannerItems: List<BannerModelHome>) :
     RecyclerView.Adapter<HomeBannerAdapter.HomeBannerViewHolder>(){
 
+
     inner class HomeBannerViewHolder(view: View) : RecyclerView.ViewHolder(view){
         private val bannerImage = view.findViewById<ImageView>(R.id.bannerImage)
         fun bind(bannerHome: BannerModelHome){

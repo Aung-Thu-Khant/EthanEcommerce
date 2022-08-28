@@ -16,6 +16,7 @@ RecyclerView.Adapter<OnBoardingItemsAdapter.OnBoardingItemViewHolder>(){
         private val txtTitle = view.findViewById<TextView>(R.id.txtTitle)
         private val txtDes = view.findViewById<TextView>(R.id.txtDes)
 
+
         fun bind(onBoardingItem: OnBoardingItem){
             imageOnBoarding.setImageResource(onBoardingItem.onBoardingImage)
             txtTitle.text = onBoardingItem.title

@@ -71,6 +71,7 @@ class OnBoarding : AppCompatActivity() {
         }
     }
 
+
     private fun setupIndicators(){
         indicatorContainer = findViewById(R.id.indicatorContainer)
         val indicators = arrayOfNulls<ImageView>(onBoardingItemsAdapter.itemCount)

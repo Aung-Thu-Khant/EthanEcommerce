@@ -15,6 +15,7 @@ class Splash : AppCompatActivity() {
             val i = Intent(this@Splash, OnBoarding::class.java)
             startActivity(i)
             finish()
+
         }, SPLASH_TIMER.toLong())
     }
 }

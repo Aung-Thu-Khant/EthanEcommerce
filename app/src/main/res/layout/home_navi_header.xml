@@ -13,4 +13,5 @@
         android:background="#673AB7"
        android:src="@drawable/ex" />
 
+
 </LinearLayout>

@@ -7,4 +7,5 @@ data class HomeBuyModel (
     val promotion: String,
     val seller: String
 
+
 )
